@@ -81,7 +81,7 @@
 
 ## Apps
 
-用电子制造.
+用Electron创作.
 
 ### Open Source
 
